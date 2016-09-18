@@ -540,7 +540,6 @@ public class MediaPlayerEngine {
                     {
                         progressBar.setProgress((mediaPlayer.getCurrentTime().toSeconds()/mediaPlayer.getMedia().getDuration().toSeconds()));
                         progress.set(progressBar.getProgress());
-                        System.out.println("Progress: " + progress.doubleValue());
                     }
                 }
 	    };

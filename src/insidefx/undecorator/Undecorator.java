@@ -624,7 +624,7 @@ public class Undecorator extends StackPane {
             	Alert alert = new Alert(AlertType.INFORMATION);
             	alert.setTitle("About");
             	alert.setHeaderText("Created by");
-            	alert.setContentText("Ernest Chechelski, Hubert Cieślak");
+            	alert.setContentText("Ernest Chechelski");
             	alert.showAndWait();
             }
         });
