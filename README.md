@@ -4,7 +4,8 @@ Only mp3 files support (with optional metadata like author, album, album art).
 Playlist.
 Audio spectrum visualiser(JavaFX Bar Chart).
 
-
+YouTube Video:
+https://www.youtube.com/watch?v=XECACoSAUk4
 
 GUI in FXML
 
