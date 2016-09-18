@@ -1,8 +1,9 @@
 # MewPlayer
 Small mp3 player in JavaFX
 Only mp3 files support (with optional metadata like author, album, album art).
-Playlist with shuffle.
+Playlist.
 Audio spectrum visualiser(JavaFX Bar Chart).
+
 
 
 GUI in FXML
