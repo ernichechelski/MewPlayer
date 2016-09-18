@@ -292,7 +292,7 @@ public class MediaPlayerEngine {
     public void setImageView(final ImageView imageView)
     {
     	this.imageView = imageView;
-    	imageView.setImage(new Image(MediaPlayerEngine.class.getResourceAsStream("pusheen.png")));
+    	//imageView.setImage(new Image(MediaPlayerEngine.class.getResourceAsStream("pusheen.png")));
     	System.out.println("ImageView Created!");
     }
     
@@ -432,7 +432,8 @@ public class MediaPlayerEngine {
                 }
                 catch(NullPointerException e)
                 {
-                	imageView.setImage(new Image(MediaPlayerEngine.class.getResourceAsStream("pusheen.png")));
+                	//imageView.setImage(new Image(MediaPlayerEngine.class.getResourceAsStream("pusheen.png")));
+                	//imageView.setImage(new Image());
                 }
                 
                
