@@ -1,15 +1,15 @@
-# Description 📖
+## Description 📖
 MewPlayer is small mp3 player in JavaFX 🎶♪♬
 Only mp3 files support (with optional metadata like author, album, album art).
 Playlist.
 Simple audio spectrum visualiser based on JavaFX Bar Chart 📊
-# YouTube Video 📹
+## YouTube Video 📹
 https://www.youtube.com/watch?v=XECACoSAUk4
 
-# Libraries 📚
+## Libraries 📚
 GUI written in FXML. JavaFX.
 
-# Thanks for 😃
+## Thanks for 😃
 Undecorator Class by Arnaud Nouard [2015]
 https://github.com/in-sideFX/Undecorator
 
